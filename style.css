@@ -1,0 +1,93 @@
+#logo img{
+    width: 198.07px;
+height: 59px;
+}
+.btn{
+    background: #21B573;
+    border-radius: 33px;
+    width: 100px;
+    height: 40px;
+}
+header{
+    width: 1440px;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+
+    background: #F0FFF0;
+
+}
+.bg-light
+{
+    
+    background: #F0FFF0;
+}
+span{
+    color: #21B573;
+}
+h6{
+    color: red;
+}
+h5{
+    color: lightgray;
+}
+.btn-start{
+    background-color: #21B573;
+    border-radius: 33px;
+    width: 150px;
+    height: 50px;
+
+}
+.container, header{
+    margin-bottom: 100px;
+}
+.container img{
+    width: 100%;
+}
+.col-md-3 img{
+    width: 80px;
+    height: 100px;
+
+}
+.book{
+
+background:#F8FFFB;
+border-radius: 10px;
+}
+.card-title{
+    color: black;
+}
+
+.card-footer img{
+    width: 20px;
+    height: 20px;
+}
+.card-footer{
+    border: none;
+    background-color:white;
+
+}
+.card{
+    background: #FFFFFF;
+    border-radius: 40px;
+    box-shadow: 10px 10px 5px lightgray;
+
+   
+}
+#Course, #testimonial h4{
+    text-align: center;
+    margin-bottom: 50px;
+}
+#list li{
+    list-style: none;
+}
+#list h4{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.navbar-custom{
+    background-color:  #F0FFF0;;
+}
